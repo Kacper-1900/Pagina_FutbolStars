@@ -2,7 +2,7 @@
 Este proyecto es una página de futbol básica, contiene información sobre equipos de futbol mediante un link directo a su págima oficial, ademas de poder comprar accesorios y ropa de varios equipos dentro de la página futbolemotion.
 
 ## Descripción
-se ha construido mediante html, css y javascript, tiene funciones básicas como enlaces directos a las páginas oficiales de los clubes de la página, un apartado de menú donde se puede acceder a tienda de ropa, accesorios y un apartado de novedades futbolisicas, además contiene un apartado de soporte donde puedes contactarte con la empresa para poder pedir ayuda mediante correo electrónico o llamada telefónica, seguidamente contiene un apartado donde se puede ver la localizacion de la tienda física y al final del header se obtiene un link directo a la página de inspiración. La página también contiene elementos decorativos, como las fotos en las esquinas inferiores.
+El proyecto se ha construido mediante html, css y javascript, tiene funciones básicas como enlaces directos a las páginas oficiales de los clubes de la página, un apartado de menú donde se puede acceder a tienda de ropa, accesorios y un apartado de novedades futbolisicas, además contiene un apartado de soporte donde puedes contactarte con la empresa para poder pedir ayuda mediante correo electrónico o llamada telefónica, seguidamente contiene un apartado donde se puede ver la localizacion de la tienda física y al final del header se obtiene un link directo a la página de inspiración. La página también contiene elementos decorativos, como las fotos en las esquinas inferiores.
 
 ## Instalación y uso
 Para ejecutar la página se ha usado una extensión de html (live server).
