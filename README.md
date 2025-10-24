@@ -5,7 +5,7 @@ Este proyecto es una página de futbol básica, contiene información sobre equi
 El proyecto se ha construido mediante html, css y javascript, tiene funciones básicas como enlaces directos a las páginas oficiales de los clubes de la página, un apartado de menú donde se puede acceder a tienda de ropa, accesorios y un apartado de novedades futbolisicas, además contiene un apartado de soporte donde puedes contactarte con la empresa para poder pedir ayuda mediante correo electrónico o llamada telefónica, seguidamente contiene un apartado donde se puede ver la localizacion de la tienda física y al final del header se obtiene un link directo a la página de inspiración. La página también contiene elementos decorativos, como las fotos en las esquinas inferiores.
 
 ## Instalación y uso
-Para ejecutar la página se ha usado una extensión de visual studio, el cual al darle click derecho al fichero .html y darle a ejecutar con Live Server ejecuto la oagina en un buscador. (live server).
+Para ejecutar la página se ha usado una extensión de visual studio, el cual al darle click derecho al fichero .html y darle a ejecutar con Live Server se ejecuta la página en un buscador. (live server).
 
 ## Agradecimientos
 Quisiera agradecer a mis compañeros Juan Pablo Miguel Velazquez e Ivan Brito Pérez, ya que estos fueron de gran ayuda a la hora de realizar el css con el cual tuve problemas.
