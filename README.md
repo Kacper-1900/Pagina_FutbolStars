@@ -6,7 +6,8 @@ The project was built using HTML, CSS, and JavaScript. It includes basic feature
 
 ## Installation and Usage
 To run the page, a Visual Studio extension was used. By right-clicking on the .html file and selecting “Open with Live Server,” the page is launched in a web browser (Live Server).
-##Acknowledgments
+
+## Acknowledgments
 I would like to thank my classmates Juan Pablo Miguel Velázquez and Ivan Brito Pérez, as they were a great help when working on the CSS, which I had some trouble with.
 
 ## Author
