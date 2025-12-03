@@ -7,11 +7,17 @@ The project was built using HTML, CSS, and JavaScript. It includes basic feature
 ## Update !!
 Hello everyone, there was a small update to my page, I installed a section where you can add your favorite football players, their jersey number, club and position, fo this I used javascript, html and css as always.
 
+## BIG UPDATE !!
+This time we got a big update for the web page. I added a function to EDIT and DELETE the players in the form, in case you add one by mistake or you simply want to delete the player, and the big thing is that I added a CONTACT FORM, that way you can contact our company via e-mail and we'll get in touch with you. This was made in JavaScript and a little bit of html, it took a lot of effort and stress I hope you like it and enjoy our last update, thank you !!!
+
 ## Installation and Usage
 To run the page, a Visual Studio extension was used. By right-clicking on the .html file and selecting “Open with Live Server,” the page is launched in a web browser (Live Server).
 
 ## Acknowledgments
 I would like to thank my brother for giving me a little help with javascript.
+
+## Big Acknowledgment
+I really really want to thank my friend Saul for helping me with the local storage, because I had a big problem with it, also as it is the last update I want to thank everyone that helped me in this journey, my brother, Juan Pablo, Iván Brito, Aymar Navarro and Saúl Hernández. 
 
 ## Author
 Kacper Jasinski
