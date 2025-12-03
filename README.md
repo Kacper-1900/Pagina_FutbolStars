@@ -13,11 +13,8 @@ This time we got a big update for the web page. I added a function to EDIT and D
 ## Installation and Usage
 To run the page, a Visual Studio extension was used. By right-clicking on the .html file and selecting “Open with Live Server,” the page is launched in a web browser (Live Server).
 
-## Acknowledgments
-I would like to thank my brother for giving me a little help with javascript.
-
 ## Big Acknowledgment
-I really really want to thank my friend Saul for helping me with the local storage, because I had a big problem with it, also as it is the last update I want to thank everyone that helped me in this journey, my brother, Juan Pablo, Iván Brito, Aymar Navarro and Saúl Hernández. 
+I really really want to thank my friend Saul for helping me with the local storage, because I had a big problem with it, also as it is the last update I want to thank everyone that helped me in this journey, my brother, Juan Pablo, Iván Brito, Aymar Navarro and Saúl Hernández. They gave me a massive help with JavaScript and CSS.
 
 ## Author
 Kacper Jasinski
